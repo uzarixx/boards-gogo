@@ -107,7 +107,6 @@ html, body {
 
 .page_welcome {
     background: url("img1/rectangle.png");
-    background-attachment: fixed;
     height: 100vh;
     max-width: 100%;
     background-repeat: no-repeat;
@@ -264,7 +263,6 @@ html, body {
 
 .page__skateboards {
     background: url("img1/rectangle-two.png");
-    background-attachment: fixed;
     height: 75vh;
     max-width: 100%;
     background-repeat: no-repeat;
